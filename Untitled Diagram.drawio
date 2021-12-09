@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T19:48:17.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="N7dYXrpkTiFq7A0ih0_2" version="14.5.1" type="github"><diagram id="gQmrpIEBPHHzBbxHCcF-" name="Page-1">5Vpdj+I2FP01SO3DRHacLx5nYHZbqdvOdtruvq08iUmsSezUMQPTX187cQLBYYeRCKAlQhCu7WvnnHvsa8MEzYr1R4HL7BNPSD5xQbKeoPnEdSFw3Yl+geS1saAQNoZU0KQxgY3hkf5H2pbGuqQJqYytMUnOc0nLvjHmjJFY9mxYCL7qV1vwPOkZSpwSy/AY49y2fqGJzBpr5ION/RdC06ztGQJTUuC2sjFUGU74asuE7idoJjiXzV2xnpFcg9fH5cOe0m5ggjB5SAO6Sh+fbj7/9vnl5l8Yff0G7tfrG+PlBedL88AfKMMsplg3/ZXF+bKinE3cABflBN2xp0p/mCeSry1Mgi9ZQnRPUBWvMirJY4ljXbpSgaFsmSxyU2z6JEKS9d6HgR1EKrYIL4gUr6qKaeBGqGliwgq2KK82JEEvamzZFkGRqYdNXKSd6w106sag9w4kXQvJB8KUZyxr/PbiBU6CF5yCHl5oAK+2yjZc3lhwIQuu2xdMc/xEcypfz44Xgm/j1Un9JIB5FmB/V3ruOjdSnndpSAUWUmr6ylWvd1WJ9VSW6nvozEnJKypV1ds4VqjJqh61GrReToqCCDMNPmH2XLU+1JC23bTmJ7Fr2a7lOsrN71y/84V6y7kuA/igfkFJlHOgaJgBDSTAyTKX+wd05oCI+vHgRQPxEAzEQzeFHz0gQisgoGZitou1/hBq8cvIFuoa8UHcN4zX7N7+9eldjZBu9CdJaSWJUPSojIGryY/UN4xoQJW8m+DY7/XMXLvBAWRHJyU7Gib7j6WsJGYJZanORhvpf1d4P01cvxbrx/nDz3tI73vVqtYuF4IX+7SsvQ47rAPin3rYZpawAkJlE6zCsc4oWl9t3cbnudeCywsHz87LLJgqKfhzl967fVhU2l7qesU61TscZ5HzVZxhIR3MGJd1evdNt8E5TZmqmJOFplOlMiR/0FGm8z80F83T3pWcMqX4+5da200fwvhRX6eaqeqZyDg7ZrYcOG2rLmGGTji12fFCxx9Im13Pdzx/JI58O7exOTI0VEpqObnVOzuFTUIFiQ1yjAv9FG+Feb0pbLkGDgjUFYUAwhBGod9WMBtRoGBT5X7gTT3ogcD1j0TIbnoJbaGMJonpUIJ0aZLoSUB1k1BVOOM5F/UA0aK+VBlXTOsdA5p7YEBKxyBrOt1Vj7tHPcrsh7Z60BQ507HYtLOb8cTTsVLPUnWMbHEC6ut9fB2BH7S7AwlsMXkDi04wmsDsHOTKKOkmr+9Qgk5KyfQclMALosQLostSSXcocL0yQcjvLysAWZz4A5ygcDRO7APhK+NEpcDODiuevdJ70GYlRKOxcsgm5odmZXdn6Qb+QbOXP9aeBQL7BPvKONk9I+8IeGORH+0nGAhOuZG8SE6gv3MCM3Aaf9LECwL/2jnxvYvj5JATgB+aEwTe5uRI2bD6uvmRvy7b+qsEuv8f</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T19:49:15.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NM8JbIWUBPnxb5i28AO9" version="14.5.1" type="github">
+  <diagram id="gQmrpIEBPHHzBbxHCcF-" name="Page-1">
+    <mxGraphModel dx="1022" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-1" value="Financial Inclusion&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="89" width="148" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-2" value="Penetration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-3" value="Availability" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-4" value="Usage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-6" value="&lt;span&gt;1.Deposit Accounts with commercial banks&lt;/span&gt;&lt;br&gt;&lt;span&gt;2. No. of loan accounts with commercial banks per 1,000 adults&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="480" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-7" value="1. Commercial bank branches per 100,000 adults&lt;br&gt;2. ATM per 100,000 adults&lt;br&gt;3. Registered mobile money agents per 100,000 adults" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="480" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-8" value="1. Outstanding deposits with commercial banks(%of GDP)&lt;br&gt;2. Outstanding loans from commercial banks (%GDP)&lt;br&gt;3. Value of mobile money transactions (% of GDP)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="480" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="286.21" y="121.79" width="147.58" height="245.45" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-54" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.066668701171875;arrowSize=0.2166656494140625;" parent="1" vertex="1">
+          <mxGeometry x="210" y="310" width="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-96" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;sketch=1;gradientColor=#ffffff;opacity=40;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="299.21" y="221.79" width="121.57" height="393.9" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-97" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-98" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="220" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-99" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=1;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="468" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-100" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="335" y="172" width="50" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-101" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="214.5" y="249" width="41" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-102" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="460" y="265" width="40" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-103" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="310" y="240" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-104" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="150" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-105" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="540" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwgSb-QLQv-q18X_0Exx-106" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;gradientColor=#ffffff;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="300" y="420" width="40" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
